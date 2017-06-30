@@ -1,0 +1,23 @@
+{
+  "name": "runpyrun",
+  "version": "1.0.0",
+  "description": "runs a python script and prints some results",
+  "main": "RunPy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jokonu/runpyrun.git"
+  },
+  "keywords": [
+    "python",
+    "mysql"
+  ],
+  "author": "Joko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jokonu/runpyrun/issues"
+  },
+  "homepage": "https://github.com/Jokonu/runpyrun#readme"
+}
